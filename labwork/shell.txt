@@ -1,0 +1,5 @@
+ A sh in a Linux operating system takes input from you in the form of commands, processes it, and then gives an output. It is the interface through which a user works on the programs, commands, and scripts. A sh is accessed by a terminal which runs it.
+
+When you run the terminal, the Shell issues a command prompt (usually $), where you can type your input, which is then executed when you hit the Enter key. The output or the result is thereafter displayed on the terminal.
+
+The Shell wraps around the delicate interior of an Operating system protecting it from accidental damage. Hence the name Shell. 
